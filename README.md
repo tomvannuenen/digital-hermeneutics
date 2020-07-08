@@ -5,7 +5,7 @@
 
 ## About this repo
 
-This repo contains a number of exercises for the Digital Hermeneutics course at the 2020 DH Summer Minor at UC Berkeley.
+This repo contains a number of notebooks for the Digital Hermeneutics course at the 2020 DH Summer Minor at UC Berkeley.
 
 
 ## Course Description
