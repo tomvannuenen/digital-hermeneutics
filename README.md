@@ -5,7 +5,7 @@
 
 ## About this repo
 
-This repo contains a number of notebooks for the Digital Hermeneutics course at the DH Summer Minor at UC Berkeley.
+This repo contains a number of notebooks for the Digital Hermeneutics course at the DH Summer Minor at UC Berkeley. Please note that these notebooks are intended to run in a Google Colab environment.
 
 
 ## Course Description
