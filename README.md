@@ -1,11 +1,11 @@
-# Digital Hermeneutics 2021
+# Digital Hermeneutics 
 
  - Instructor: Tom van Nuenen
  - Email: tom.van_nuenen@kcl.ac.uk
 
 ## About this repo
 
-This repo contains a number of notebooks for the Digital Hermeneutics course at the 2021 DH Summer Minor at UC Berkeley.
+This repo contains a number of notebooks for the Digital Hermeneutics course at the DH Summer Minor at UC Berkeley.
 
 
 ## Course Description
